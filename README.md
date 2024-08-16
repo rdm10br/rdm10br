@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
             src="https://github-profile-trophy.vercel.app/?username=rdm10br" alt="rdm10br" /></a> </p>
 
-- 🔭 I’m currently working on [BB_Py_Automation](https://github.com/rdm10br/BB_Py_Automation.git)
+- 🔭 I’m currently working on [BB_Py_Automation](https://github.com/rdm10br/BB_Py_Automation.git) and [UI_BB_Py_Auto](https://github.com/rdm10br/UI_BB_Py_Auto)
 
 - 🌱 I’m currently learning **Python, Spacy, JS**
 
